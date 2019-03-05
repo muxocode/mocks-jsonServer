@@ -1,11 +1,16 @@
 # Proyecto server para mocks
 ## Arrancar
+Instalación
+```shell
+npm run install
+```
+## Arrancar
 Tan solo hay que decargarlo y lanzar
-```shel
+```shell
 npm run start
 ```
 ## Contenido
-```shel
+```shell
 /usuarios 1000x
 /rol 2x
 /dia 7x
