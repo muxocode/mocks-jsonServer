@@ -1,6 +1,5 @@
 # Proyecto server para mocks
-## Arrancar
-Instalación
+## Instalación
 ```shell
 npm run install
 ```
