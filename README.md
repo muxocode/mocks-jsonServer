@@ -1,4 +1,5 @@
 # Proyecto server para mocks
+Proyecto para mocks que se levanta en el puerto 3004
 ## Instalación
 ```shell
 npm run install
